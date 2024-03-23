@@ -4,7 +4,7 @@
 
 <hr>
 
-- [Lifeline Chronicles]() *"Lifeline Chronicles" is an immersive narrative-driven game where players embark on a journey through life's pivotal moments, facing decisions that shape their character's destiny*
+- [Lifeline Chronicles]() **"Lifeline Chronicles"* is an immersive narrative-driven game where players embark on a journey through life's pivotal moments, facing decisions that shape their character's destiny*
 
 <hr>
 
